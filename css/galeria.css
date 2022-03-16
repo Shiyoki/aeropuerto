@@ -1,0 +1,20 @@
+.container{
+	max-width: 1170px;
+	margin:auto;
+}
+.row{
+	display: flex;
+	flex-wrap: wrap;
+}
+.img-style{
+	width: 350px;
+	height: 350px;
+}
+
+.img-col{
+	padding: 5px;
+}
+
+.img-style{
+	border: 3px solid purple;
+}

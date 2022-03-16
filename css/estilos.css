@@ -1,0 +1,51 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+
+
+body{
+
+	background: #f7f1e3;
+	font-family: cursive;
+
+}
+
+
+
+
+
+header{
+	background: #6F1E51;
+	width: 100%;
+	clear: both;
+	content: ´´;
+	display: table;
+}
+
+.menu{
+	width: 900px;
+	margin: 0 auto;
+}
+
+
+
+nav{
+	float: right;
+}
+
+nav ul li{
+	list-style: none;
+	margin-left: 75px;
+	padding: 15px 0;
+	float: left;
+
+}
+
+
+nav ul li a{
+	text-decoration: none;
+	color: #ffff;
+	font-weight: bold;
+}
